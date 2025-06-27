@@ -100,32 +100,6 @@ Enter topic for debate: Should AI be regulated like medicine?
 [Judge] Winner: Scientist
 [Judge] Reason: Presented more grounded, risk-based arguments aligned with public safety principles.
 ```
-
----
-
-## 🎥 Demo Video (Required for Submission)
-
-Record a 2–4 min walkthrough covering:
-
-- Project structure
-- CLI demonstration
-- Explanation of each node
-- Judge’s logic
-- DAG diagram
-
----
-
-## 🏁 Submission Checklist
-
-- [x] ✅ All Python source code (modular)
-- [x] ✅ CLI interface
-- [x] ✅ DAG diagram
-- [x] ✅ Log file of state transitions
-- [x] ✅ This README
-- [ ] 🎥 Demo video (upload or share a link)
-
----
-
 ## 👨‍💻 Author
 
 **Arnav Anand**  
