@@ -1,0 +1,11 @@
+import graphviz
+
+dot = graphviz.Digraph(comment='Debate DAG')
+dot.node('U', 'UserInputNode')
+dot.node('A', 'AgentA')
+dot.node('B', 'AgentB')
+dot.node('M', 'MemoryNode')
+dot.node('J', 'JudgeNode')
+
+dot.edges(['UA', 'AM', 'MB', 'BM', 'MA', 'AJ'])  # Simplified
+dot.render('debate_dag', format='png', cleanup=True)
